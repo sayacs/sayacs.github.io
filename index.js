@@ -12,7 +12,7 @@ const dark = document.getElementById('dark');
 dark.addEventListener('click', function onClick(event) {
     const box = document.getElementById('container');
 
-    box.style.backgroundColor = 'black';
+    box.style.backgroundColor = 'salmon';
     box.style.color = 'white';
 });
 
